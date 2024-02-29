@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAda", "CinemaAda\CinemaAda.csproj", "{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C6E2719C-FBFD-4EE9-BADD-5F6B1CB0F14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAda.Tests", "CinemaAda.Tests\CinemaAda.Tests.csproj", "{5E67FCFD-C483-45C5-AA55-7DF6DCD50836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E67FCFD-C483-45C5-AA55-7DF6DCD50836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E67FCFD-C483-45C5-AA55-7DF6DCD50836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E67FCFD-C483-45C5-AA55-7DF6DCD50836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E67FCFD-C483-45C5-AA55-7DF6DCD50836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC6BF3CE-ACAC-4F28-81BF-405B40A4A342} = {C6E2719C-FBFD-4EE9-BADD-5F6B1CB0F14E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58D5D91-C3E3-4D47-8A04-AF7D1A93001C}
+	EndGlobalSection
+EndGlobal
